@@ -1,6 +1,6 @@
-# Travel Tinder
+# EaseMyTrip
 
-Travel Tinder is a web application that combines travel planning with social networking, enabling solo travelers to connect, create personalized itineraries, and explore the world together.
+EaseMyTrip is a web application that combines travel planning with social networking, enabling solo travelers to connect, create personalized itineraries, and explore the world together.
 
 ## Features
 - **User Authentication**: Secure login with Google Authentication.
