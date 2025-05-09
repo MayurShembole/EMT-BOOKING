@@ -36,7 +36,7 @@ To run the application locally, follow these steps:
 
 4. **Open the application**:
     ```bash
-    The application will open in your default browser at `http://localhost:3000`.
+    The application will open in your default browser at `http://localhost:5173/`.
 
 ## Folder Structure
 
